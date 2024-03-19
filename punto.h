@@ -9,4 +9,6 @@ int problema7();
 int problema8();
 int problema9();
 int problema10();
+int problema17();
+int problema18();
 #endif // PUNTO_H
